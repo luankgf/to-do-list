@@ -29,12 +29,13 @@ lista-de-tarefas-JS/ │
 - **CSS3**: Para estilização (incluindo uso de Font Awesome para ícones).
 - **JavaScript**: Para adicionar interatividade e manipular o DOM.
 
-## Como Executar o Projeto
-1. Faça o download ou clone este repositório:  
-   git clone https://github.com/seu-usuario/seu-repositorio.git  
-Navegue até a pasta do projeto:  
-cd lista-de-tarefas-JS  
-Abra o arquivo index.html em seu navegador.  
+## Como Executar o Projeto  
+Faça o download ou clone este repositório:  
+```bash
+git clone https://github.com/luankgf/to-do-list.git
+Navegue até a pasta do projeto:
+cd lista-de-tarefas-JS
+Abra o arquivo index.html em seu navegador.
 
     
 ## Melhorias Futuras  
