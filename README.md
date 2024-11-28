@@ -31,7 +31,6 @@ lista-de-tarefas-JS/ │
 
 ## Como Executar o Projeto  
 Faça o download ou clone este repositório:  
-```bash
 git clone https://github.com/luankgf/to-do-list.git
 Navegue até a pasta do projeto:
 cd lista-de-tarefas-JS
@@ -44,8 +43,7 @@ Melhorar o design para responsividade em dispositivos móveis.
 Implementar autenticação para usuários.  
 
 
-  
-    
+      
 Este projeto está licenciado sob a MIT License.  
   
 
