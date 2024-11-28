@@ -30,24 +30,28 @@ lista-de-tarefas-JS/ │
 - **JavaScript**: Para adicionar interatividade e manipular o DOM.
 
 ## Como Executar o Projeto  
-Faça o download ou clone este repositório:  
-git clone https://github.com/luankgf/to-do-list.git
-Navegue até a pasta do projeto:
-cd lista-de-tarefas-JS
-Abra o arquivo index.html em seu navegador.
+Faça o download ou clone este repositório:    
+git clone https://github.com/luankgf/to-do-list.git  
+Navegue até a pasta do projeto:  
+cd lista-de-tarefas-JS  
+Abra o arquivo index.html em seu navegador.  
 
-    
+
+      
 ## Melhorias Futuras  
 Adicionar banco de dados ou armazenamento local para salvar as tarefas.  
 Melhorar o design para responsividade em dispositivos móveis.  
 Implementar autenticação para usuários.  
 
 
+  
       
 Este projeto está licenciado sob a MIT License.  
   
 
 
+
+    
 
 
 Email: luan.klebergf@hotmail.com  
