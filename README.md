@@ -19,7 +19,8 @@ lista-de-tarefas-JS/ │
 ├── index.html # Estrutura principal do site  
 ├── css/   
 │ └── style.css # Estilos da aplicação   
-├── js/ │ └── scripts.js # Lógica e interatividade   
+├── js/  
+│ └── scripts.js # Lógica e interatividade     
 └── img/ # Imagens 
 
 
@@ -29,22 +30,22 @@ lista-de-tarefas-JS/ │
 - **JavaScript**: Para adicionar interatividade e manipular o DOM.
 
 ## Como Executar o Projeto
-1. Faça o download ou clone este repositório:
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-Navegue até a pasta do projeto:
-cd lista-de-tarefas-JS
-Abra o arquivo index.html em seu navegador.
+1. Faça o download ou clone este repositório:  
+   git clone https://github.com/seu-usuario/seu-repositorio.git  
+Navegue até a pasta do projeto:  
+cd lista-de-tarefas-JS  
+Abra o arquivo index.html em seu navegador.  
+  
+Melhorias Futuras  
+Adicionar banco de dados ou armazenamento local para salvar as tarefas.  
+Melhorar o design para responsividade em dispositivos móveis.  
+Implementar autenticação para usuários.  
+  
+  
+Este projeto está licenciado sob a MIT License.  
+  
 
-Melhorias Futuras
-Adicionar banco de dados ou armazenamento local para salvar as tarefas.
-Melhorar o design para responsividade em dispositivos móveis.
-Implementar autenticação para usuários.
 
-
-Este projeto está licenciado sob a MIT License.
-
-
-
-Email: luan.klebergf@hotmail.com
-GitHub: https://github.com/luankgf
-linkedin: https://www.linkedin.com/in/luanklebergf/
+Email: luan.klebergf@hotmail.com  
+GitHub: https://github.com/luankgf  
+linkedin: https://www.linkedin.com/in/luanklebergf/  
